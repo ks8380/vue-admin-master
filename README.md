@@ -49,6 +49,7 @@ You can change theme by
 
 # Browser support
 
+
 Modern browsers and IE 10+.
 
 # License
